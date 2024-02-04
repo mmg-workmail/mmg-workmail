@@ -16,6 +16,7 @@ Passionate about crafting pixel-perfect and performant user interfaces, I am a F
 🔧 Tools:
 - Git / GitHub / GitLab
 - VS Code
+- Docker
 
 💡 Skills:
 - UI/UX Design
