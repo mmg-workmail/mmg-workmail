@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 Frontend Developer | JavaScript ES6 | Vue.js | Nuxt.js | Vuetify
+👨‍💻 Frontend Developer | JavaScript ES6 | Vue.js | Nuxt.js | Vuetify | Nestjs
 
 Passionate about crafting pixel-perfect and performant user interfaces, I am a Frontend Developer well-versed in JavaScript ES6, Type script,  Vue.js, Nuxt.js, and Vuetify. My coding journey revolves around building elegant and responsive web applications.
 
